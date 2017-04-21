@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quickdeal</string>
+    <string name="i_am">I AM A&#8230;</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="oppp">Oopsss !</string>
+    <string name="no_internet">No internet connection found check it or try again</string>
+    <string name="connected">Connected</string>
+    <string name="wait">Internet connection found wait 5 sec we are connecting to our service</string>
+    <string name="title_activity_services1">Services1</string>
+
+
+</resources>
